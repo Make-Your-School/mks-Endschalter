@@ -1,6 +1,6 @@
-# mks-Bauteil
+# Endschalter
 
-![Bauteil](./bauteil.png)
+![Bauteil](./bauteil.jpg)
 <!-- TODO: CONTENT change image -->
 <!-- TODO: ARCHITECTURE multiple images? -->
 <!-- do we need multiple images per part?-->
@@ -37,7 +37,7 @@ So wird die bevorstehende Kollision erkannt und kann vermieden werden. (z.B. fä
 
 ## Siehe Auch
 
--   falls vorhanden link zu anderem Bauteil / zugehörigem part
+-   -
 
 
 
